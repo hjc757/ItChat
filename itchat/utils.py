@@ -11,7 +11,6 @@ except ImportError:
     from urllib.parse import quote
 import html
 import requests
-
 from 。 import config
 
 logger = logging.getLogger('itchat')
